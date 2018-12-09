@@ -1,0 +1,48 @@
+PODS:
+  - Alamofire (4.8.0)
+  - PromiseKit (4.5.2):
+    - PromiseKit/Foundation (= 4.5.2)
+    - PromiseKit/QuartzCore (= 4.5.2)
+    - PromiseKit/UIKit (= 4.5.2)
+  - PromiseKit/CoreLocation (4.5.2):
+    - PromiseKit/CorePromise
+  - PromiseKit/CorePromise (4.5.2)
+  - PromiseKit/Foundation (4.5.2):
+    - PromiseKit/CorePromise
+  - PromiseKit/MapKit (4.5.2):
+    - PromiseKit/CorePromise
+  - PromiseKit/QuartzCore (4.5.2):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (4.5.2):
+    - PromiseKit/CorePromise
+  - ReverseExtension (0.5.0)
+  - SnapKit (4.0.1)
+  - Toolbar (0.4.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - PromiseKit
+  - PromiseKit/CoreLocation
+  - PromiseKit/MapKit
+  - ReverseExtension
+  - SnapKit
+  - Toolbar
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - PromiseKit
+    - ReverseExtension
+    - SnapKit
+    - Toolbar
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  PromiseKit: 743e497a5f505a470d3bbbf4ce0663c1268af0a4
+  ReverseExtension: 21c8dd4e767f93b56fb97d873686d24160f83945
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+  Toolbar: 52b0c6656143f9b27d0880b8ab64b2a4956be918
+
+PODFILE CHECKSUM: 55fcf5a0ae4a6c8aa573a483d9e52bd20055fdde
+
+COCOAPODS: 1.5.3

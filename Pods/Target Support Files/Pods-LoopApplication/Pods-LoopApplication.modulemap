@@ -1,0 +1,6 @@
+framework module Pods_LoopApplication {
+  umbrella header "Pods-LoopApplication-umbrella.h"
+
+  export *
+  module * { export * }
+}
